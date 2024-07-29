@@ -6,6 +6,13 @@ Resources for quick bootstrapping and product development
 - https://usegravity.app
 - https://anotherwrapper.com
 
+## AI Agents & Models
+- OpenBB
+- Custom Langchain
+- Llama 3.1
+- Sonnet 3.5
+- GPT4o
+
 ## DB Hosting
 - Supabase (free) [postgres]
 
@@ -16,6 +23,7 @@ Resources for quick bootstrapping and product development
 - Astro.js
 - Golang
 - Rust
+- Python
 - Docker
 - Ansible
 - Terraform
