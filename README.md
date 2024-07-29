@@ -8,11 +8,11 @@ Resources for quick bootstrapping and product development
 - https://github.com/boxyhq/saas-starter-kit
 
 ## AI Agents & Models
-- OpenBB
-- Custom Langchain
-- Llama 3.1
-- Sonnet 3.5
-- GPT4o
+- OpenBB [https://docs.openbb.co/platform/developer_guide/architecture_overview]
+- Langchain [https://python.langchain.com/v0.1/docs/get_started/quickstart/]
+- Llama 3.1 [https://ollama.com/download/linux]
+- Sonnet 3.5 [https://claude.ai]
+- GPT4o [https://chatgpt.com]
 
 ## DB Hosting
 - Supabase (free) [postgres]
