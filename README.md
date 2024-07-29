@@ -5,6 +5,7 @@ Resources for quick bootstrapping and product development
 - https://opensaas.sh
 - https://usegravity.app
 - https://anotherwrapper.com
+- https://github.com/boxyhq/saas-starter-kit
 
 ## AI Agents & Models
 - OpenBB
